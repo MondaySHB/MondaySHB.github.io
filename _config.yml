@@ -43,8 +43,8 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: ModnaySHB
-repo: MondaySHB
+username: MondaySHB
+repo: MondaySHB.github.io
 branch: master
 relative_source: ../MondaySHB/
 destination: ../MondaySHB-pages/
