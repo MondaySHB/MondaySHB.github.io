@@ -9,7 +9,7 @@ language: 'en-uk'
 # Website info
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
-short_url: 'MondaySHB.github.io/MondaySHB/'
+short_url: 'MondaySHB.github.io/'
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
@@ -46,9 +46,9 @@ lsi: false
 username: MondaySHB
 repo: MondaySHB.github.io
 branch: master
-relative_source: ../MondaySHB/
+relative_source: ../MondaySHB.github.io/
 destination: ../MondaySHB-pages/
-production_url:  https://MondaySHB.github.io/MondaySHB/
+production_url:  https://MondaySHB.github.io/
 source_url:  https://github.com/MondaySHB/MondaySHB.github.io/
 
 exclude:
