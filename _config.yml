@@ -12,7 +12,7 @@ description: "A beautiful narrative written with the world's most elegant publis
 short_url: 'MondaySHB.github.io/MondaySHB/'
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /MondaySHB/
+baseurl: /
 
 # Permalinks
 permalink: /:title
